@@ -1,5 +1,14 @@
 #  Bienvenue sur mon github 
 
+Je suis actuellement en formation, pour devenir developpeur web ! 
+Ici je posterais mais projet et mais futur travaille realiser en entreprise ou en formation.
+Hesiter pas à donner votre avis sur mon travail realisé ou de m'apporte de l'aide pour des futurs projets !
+Je suis joignable sur mon adresse e-mail : Ich.dev.art@gmail.com.
+
+Je serais peut être votre futur developpeur web et web mobile 😄
+
+Enjoy !!
+
 <!--
 **ichdev-art/Ichdev-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
