@@ -1,11 +1,8 @@
 #  Bienvenue sur mon github 
 
-Je suis actuellement en formation, pour devenir developpeur web ! 
-Ici je posterais mais projet et mais futur travaille realiser en entreprise ou en formation.
-Hesiter pas à donner votre avis sur mon travail realisé ou de m'apporte de l'aide pour des futurs projets !
-Je suis joignable sur mon adresse e-mail : Ich.dev.art@gmail.com.
+Je suis actuellement en formation pour devenir développeur web ! Ici, je posterai mes projets et mes futurs travaux réalisés en entreprise ou en formation. N’hésitez pas à donner votre avis sur mon travail réalisé ou à m’apporter de l’aide pour de futurs projets ! Je suis joignable sur mon adresse e-mail : Ich.dev.art@gmail.com.
 
-Je serais peut être votre futur developpeur web et web mobile 😄
+Je serai peut-être votre futur développeur web et web mobile 😄
 
 Enjoy !!
 
